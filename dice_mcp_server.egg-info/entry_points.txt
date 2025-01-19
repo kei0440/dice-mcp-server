@@ -1,0 +1,2 @@
+[console_scripts]
+dice-mcp-server = dice_mcp_server:roll_dice
